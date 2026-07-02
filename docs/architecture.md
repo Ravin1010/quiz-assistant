@@ -10,13 +10,16 @@ Pipeline:
 Screenshot
     │
     ▼
-Capture Module
+OCR Engine
     │
     ▼
-OCR Engine (Strategy Pattern)
+OCRResult[]
     │
     ▼
-Text Cleaner
+TextCleaner
+    │
+    ▼
+Normalized Text
     │
     ▼
 Question Parser

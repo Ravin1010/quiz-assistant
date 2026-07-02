@@ -1,0 +1,7 @@
+“What   is Python?”
+
+A. Snake
+
+B. Programming     language
+
+C. Movie
